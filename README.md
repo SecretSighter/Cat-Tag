@@ -10,3 +10,9 @@ The game will feature walking, running, jumping, tackling, climbing, and beind a
 Environments will include indoors, outdoors (all the seasons), and populated areas.
 
 The game will be multiplayer.
+
+Decisions that need to be made
+=
+
+* Which scenes should be implemented
+* How should a cat stop, should there be a delay? How should a cat turn?
